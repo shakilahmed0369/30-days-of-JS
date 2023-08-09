@@ -1,0 +1,8 @@
+javaScript / ECMAScript
+-----------------------
+
+javaScript was invented by Brendan Eich in 1995 in 10 days.
+
+It was developed for Netscap 2, and became the ECMA-262 stander in 1997
+
+After Netscap handed JavaScript over to ECMA, the Mozilla foundation continued to developed JavaScript for the firefox browser.
